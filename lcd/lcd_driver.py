@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # Original code found at:
 # https://gist.github.com/DenisFromHR/cc863375a6e19dce359d
+# http://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/
 
 """
 Compiled, mashed and generally mutilated 2014-2015 by Denis Pleic
